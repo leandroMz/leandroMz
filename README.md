@@ -6,19 +6,20 @@
 
 *<Actualmente estoy aprendiendo programacion!>*
 
-📚/Estoy_Estudiando/Ingenieria_Industrial
-📚/Estoy_Estudiando/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)
-📚/Estoy_Estudiando/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/)
-
+<ul>
+<**Estoy_Estudiando**>
+<li>----📚/Ingenieria_Industrial</li>
+<li>----📚/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)</li>
+<li>----📚/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/)</li>
+</ul>
 🎨/Soy/Dibujante_Digital
 
 😁/Hobbies/Viajar/Dibujar
 
 <footer>
 
-<center>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leandroMz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leandro-martinez-93b5b821a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@leomz2/) 
-  </center>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leandroMz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leandro-martinez-93b5b821a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@leomz2/) 
+
 
 <footer>
 
