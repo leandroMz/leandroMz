@@ -7,10 +7,10 @@
 *<Actualmente estoy aprendiendo programacion!>*
 
 <ul>
-<**Estoy_Estudiando**>
-<li>----📚/Ingenieria_Industrial</li>
-<li>----📚/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)</li>
-<li>----📚/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/)</li>
+<p>**Estoy_Estudiando**</p>
+<li/Ingenieria_Industrial</li>
+<li>/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)</li>
+<li>/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/)</li>
 </ul>
 🎨/Soy/Dibujante_Digital
 
@@ -22,6 +22,3 @@
 
 
 <footer>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroMz)](https://github.com/anuraghazra/github-readme-stats)
-
