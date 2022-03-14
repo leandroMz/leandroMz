@@ -4,13 +4,14 @@
 
 *Actualmente estoy aprendiendo programacion* <br><br>
 
-Studing="/Ingenieria_Industrial" <br>
-Studing="/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)" <br>
-Studing="/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master)" <br><br>
+```<>Studing="/Ingenieria_Industrial"<> <br>
+<>Studing="/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)"<> <br>
+<>Studing="/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master)"<> <br><br>
 
-🎨 /Dibujante_Digital /Freelancer
+<>Work="Dibujante_Digital/Freelancer"<>
 
-😁 /Hobbies: /Viajar/Dibujar/Padel <br><br><br>
+<>Hobbies="/Viajar/Dibujar/Padel"<> <br><br><br>
+´´´´
 
 <footer>
 
