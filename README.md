@@ -2,11 +2,11 @@
    
 ![I am GitHub Readme Generator's creator](https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
-*<>Actualmente estoy aprendiendo programacion!<>* <br><br>
+*Actualmente estoy aprendiendo programacion* <br><br>
 
-📚 /Estoy_Estudiando /Ingenieria_Industrial <br>
-📚 /Estoy_Estudiando /[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) <br>
-📚 /Estoy_Estudiando /[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master) <br><br>
+Studing="/Ingenieria_Industrial" <br>
+Studing="/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)" <br>
+Studing="/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master)" <br><br>
 
 🎨 /Dibujante_Digital /Freelancer
 
