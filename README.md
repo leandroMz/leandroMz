@@ -1,12 +1,12 @@
-### **_'<header>Hola Mi_nombre_es_leandro</header>'_**
+### **_<header>Hello!_My_name_is_leandro</header>_**
    
 ![I am GitHub Readme Generator's creator](https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 *Actualmente estoy aprendiendo programacion* <br><br>
 
-<>Studing="/Ingenieria_Industrial"<> <br>
-<>Studing="/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)"<> <br>
-<>Studing="/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master)"<> <br><br>
+Studing="/Ingenieria_Industrial" <br>
+Studing="/[Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)" <br>
+Studing="/[Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master)" <br><br>
 
  <>Work="Dibujante_Digital/Freelancer"<>
 
