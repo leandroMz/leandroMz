@@ -5,7 +5,7 @@
 *I am currently learning programming* <br><br>
 
 Studing
- - Ingenieria_Industrial <br>
+ - Industrial_Engineering <br>
  - [Certified_tech_Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) <br>
  - [Java](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master) <br>
 
